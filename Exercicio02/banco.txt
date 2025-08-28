@@ -1,0 +1,15 @@
+
+- - - - - - - - - - Cliente nº: 1 - - - - - - - - - -
+Nome: John
+Cargo: Gerente de Projeto
+Salario: 9975.0
+
+- - - - - - - - - - Cliente nº: 2 - - - - - - - - - -
+Nome: Layana G.
+Cargo: Biomedico
+Salario: 5250.0
+
+- - - - - - - - - - Cliente nº: 3 - - - - - - - - - -
+Nome: Fernanda C.
+Cargo: Quimica
+Salario: 7350.0
