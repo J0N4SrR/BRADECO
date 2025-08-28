@@ -13,7 +13,7 @@ public class EmployeeRepository implements InterfaceEmployeeRepository {
     }
 
     @Override
-    public void save(Employee employee) throws IOException {
+    public void store(Employee employee) throws IOException {
         employeeNum++;
         FileWriter fw = new FileWriter("banco.txt", true);
         PrintWriter pw = new PrintWriter(fw);

@@ -13,7 +13,7 @@ public class EmployeeFacade {
     }
 
     public void saveEmployee(Employee employee) throws IOException {
-        repository.save(employee);
+        repository.store(employee);
     }
 
 }
