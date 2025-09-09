@@ -16,7 +16,7 @@ public class Main {
 }
 
 /* Por que Triangle foi adicionado sem modificar a main?
-Porque o metodo drawAllShapes agora depende da abstração Shape e não de classes concretas.
+Porque o metodo draw agora depende da abstração Shape e não de classes concretas.
 Graças ao polimorfismo, ele chama o metodo draw() em qualquer objeto que cumpra o contrato da interface, sem precisar saber seu tipo específico.*/
 
 /* Qual a relação com o Princípio Aberto/Fechado?
